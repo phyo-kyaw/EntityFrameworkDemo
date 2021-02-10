@@ -1,0 +1,12 @@
+C:\pk\Courses\Azure\EntityF\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+C:\pk\Courses\Azure\EntityF\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+C:\pk\Courses\Azure\EntityF\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\pk\Courses\Azure\EntityF\Repository\bin\Debug\netcoreapp3.1\Model.dll
+C:\pk\Courses\Azure\EntityF\Repository\bin\Debug\netcoreapp3.1\Model.pdb
+C:\pk\Courses\Azure\EntityF\Repository\obj\Debug\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+C:\pk\Courses\Azure\EntityF\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+C:\pk\Courses\Azure\EntityF\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+C:\pk\Courses\Azure\EntityF\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+C:\pk\Courses\Azure\EntityF\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+C:\pk\Courses\Azure\EntityF\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+C:\pk\Courses\Azure\EntityF\Repository\obj\Debug\netcoreapp3.1\Repository.pdb

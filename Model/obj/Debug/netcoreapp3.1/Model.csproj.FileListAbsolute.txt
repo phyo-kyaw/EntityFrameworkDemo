@@ -1,0 +1,12 @@
+C:\pk\Courses\Azure\EntityF\Model\bin\Debug\netcoreapp3.1\Model.deps.json
+C:\pk\Courses\Azure\EntityF\Model\bin\Debug\netcoreapp3.1\Model.runtimeconfig.json
+C:\pk\Courses\Azure\EntityF\Model\bin\Debug\netcoreapp3.1\Model.runtimeconfig.dev.json
+C:\pk\Courses\Azure\EntityF\Model\bin\Debug\netcoreapp3.1\Model.dll
+C:\pk\Courses\Azure\EntityF\Model\bin\Debug\netcoreapp3.1\Model.pdb
+C:\pk\Courses\Azure\EntityF\Model\obj\Debug\netcoreapp3.1\Model.csprojAssemblyReference.cache
+C:\pk\Courses\Azure\EntityF\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfoInputs.cache
+C:\pk\Courses\Azure\EntityF\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfo.cs
+C:\pk\Courses\Azure\EntityF\Model\obj\Debug\netcoreapp3.1\Model.csproj.CoreCompileInputs.cache
+C:\pk\Courses\Azure\EntityF\Model\obj\Debug\netcoreapp3.1\Model.dll
+C:\pk\Courses\Azure\EntityF\Model\obj\Debug\netcoreapp3.1\Model.pdb
+C:\pk\Courses\Azure\EntityF\Model\obj\Debug\netcoreapp3.1\Model.genruntimeconfig.cache
